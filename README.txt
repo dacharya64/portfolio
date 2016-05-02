@@ -1,3 +1,7 @@
+Website by Devi Acharya, using the template Dopetrope by HTML5 UP. 
+
+HTML5 UP license below:
+
 Dopetrope by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)

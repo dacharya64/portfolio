@@ -1693,7 +1693,7 @@
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: #CCE8F4 url("../../images/sky2.jpg");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -1701,7 +1701,7 @@
 	}
 
 		#banner header {
-			background-color: #252122;
+			background-color: #66CCFF;
 			background-color: rgba(34, 30, 31, 0.98);
 		}
 
